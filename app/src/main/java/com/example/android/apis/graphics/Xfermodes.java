@@ -128,6 +128,7 @@ public class Xfermodes extends GraphicsActivity {
             int x = 0;
             int y = 0;
             for (int i = 0; i < sModes.length; i++) {
+
                 // draw the border
                 paint.setStyle(Paint.Style.STROKE);
                 paint.setShader(null);
